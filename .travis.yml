@@ -3,4 +3,4 @@ language: generic
 git:
   submodules: false
 before_install:
-- bash chromium_checkout_and_build.sh
+- bash chromium-android-check-out-and-build.sh
